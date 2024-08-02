@@ -1,6 +1,9 @@
 [![DOI](https://zenodo.org/badge/122105084.svg)](https://zenodo.org/badge/latestdoi/122105084)
 
 # Sign-Language
+Conversation of sign language to text
+
+Sign language helps with communication with dumb and deaf people. It is useful for dumb and deaf people to recognise the words.
 A very simple CNN project.
 
 ## Note
